@@ -1,0 +1,3 @@
+Introduction
+
+All codes are in Python language and fast as hell.
