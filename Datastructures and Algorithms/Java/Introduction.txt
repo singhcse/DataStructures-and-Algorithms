@@ -1,2 +1,2 @@
-All the codes are in java languages and all must have to run in JVM environment.
+All the codes are in java languages and all must have to be run in JVM environment.
 haha... kidding
